@@ -1,4 +1,4 @@
-# Inventory-Management-Case-Studies
+# ABC Analysis - Inventory
 Project Overview
 This repository contains an Inventory Management to improve stock efficiency, reduce holding and ordering costs, and prevent stockouts. By applying inventory control techniques, specifically ABC Classification, Economic Order Quantity (EOQ) , and Reorder Point (ROP).
 
